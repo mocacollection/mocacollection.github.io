@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+MOCA's 2020 new projects
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Museum of Chinese in America celebrates its 40th anniverary, by telling MOCA's 40 year stories, collecting OneWorld Covid-19 Special Collection, and running the 50th TCS NYC Marathon!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[oneworld@mocanyc.org](mailto:oneworld@mocanyc.org)
